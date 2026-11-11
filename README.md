@@ -1,3 +1,21 @@
+<img src="artemis-project-cover.svg" alt="Coolify - Personal fork" width="100%" />
+
+<!-- JET-FORK-OVERVIEW: provenance note; existing README retained below -->
+> **Personal fork** of [coollabsio/coolify](https://github.com/coollabsio/coolify), retained by [Artemis](https://github.com/NeoArtemis37) as a study and evaluation workspace.
+
+## About this fork
+
+**Area:** Self-hosted application delivery.
+
+Project authorship, releases and support belong to the upstream maintainers. This overview does not claim an independent release or an upstream contribution. Fork-specific changes, when documented, should be distinguished from the original project.
+
+The existing project documentation is preserved below. Its badges, benchmarks, release references and support links describe the upstream project unless explicitly stated otherwise.
+
+**Upstream:** https://github.com/coollabsio/coolify  
+**Licensing:** The original [LICENSE](LICENSE) and copyright notices remain applicable.
+
+---
+
 <div align="center">
 
 # Coolify
